@@ -1,2 +1,1 @@
-# CovidDataProject
-Guided project
+
